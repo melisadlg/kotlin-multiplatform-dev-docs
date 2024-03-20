@@ -157,3 +157,10 @@ products. [Read the full story](https://kotlinlang.org/lp/multiplatform/case-stu
 In both of Chalk.com's mobile apps, Kotlin Multiplatform is used for networking, offline caching, and business logic.
 The UI for each of the apps is native to the platform, but other than that, almost everything else in their apps can be
 shared with Kotlin Multiplatform. [Read the full story](https://kotlinlang.org/lp/multiplatform/case-studies/chalk/).
+
+[![DeBijenkorf](debijenkorf-nl.svg){width=200}](https://medium.com/de-bijenkorf-techblog/de-bijenkorf-apps-with-kmm-c1ac09fd6334)
+
+DeBijenkorf uses Kotlin Multiplatform for networking, some buisness logic and database sharing. This, in order to allow
+faster development, cross platform knowledge sharing and to reduce discrepancies between the two platforms. 
+[Read about it here](https://medium.com/de-bijenkorf-techblog/de-bijenkorf-apps-with-kmm-c1ac09fd6334).
+
